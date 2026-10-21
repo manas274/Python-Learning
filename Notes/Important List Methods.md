@@ -1,8 +1,8 @@
 ```markdown
-1. **append()**<br>
-Adds one item at the end of the list.<br>
-`>>> my_list = [1,2,3]`<br>
-`>>> my_list.append(4)`<br>
+1. append()
+Adds one item at the end of the list.
+>>> my_list = [1,2,3]
+>>> my_list.append(4)
 Output : [1,2,3,4]
 
 2. insert()
