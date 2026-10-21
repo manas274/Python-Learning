@@ -1,5 +1,6 @@
-1. append()
-Adds one item at the end of the list.
+1. **append()**
+Adds one item at the end of the list
+'''python
 >>> my_list = [1,2,3]
 >>> my_list.append(4)
 Output : [1,2,3,4]
