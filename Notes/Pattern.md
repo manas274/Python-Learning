@@ -13,6 +13,7 @@ Concepts:
 
 Key Point: Nested loops are the main concept behind pattern programs.
 
+```markdown
 Example:
 
 n = 4 # defines the size of the pattern
